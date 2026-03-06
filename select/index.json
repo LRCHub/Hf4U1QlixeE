@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Life",
+  "base_artist": "Shiggy Jr.",
+  "createdAt": "2026-03-06T22:54:20.545774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/01_Awful_Beautiful_Life_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/02_Awful_Beautiful_Life_(Album_Version)_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BEAUTIFUL LIFE",
+      "artist": "nothing,nowhere. feat. Travis Barker",
+      "has_synced": true,
+      "path": "select/03_BEAUTIFUL_LIFE_nothing,nowhere._feat._Travis_Barker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BEAUTIFUL LIFE",
+      "artist": "nothing,nowhere. & Travis Barker",
+      "has_synced": true,
+      "path": "select/04_BEAUTIFUL_LIFE_nothing,nowhere._&_Travis_Barker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Beautiful Life",
+      "artist": "Big Tymers feat. Jazze Pha",
+      "has_synced": false,
+      "path": "select/05_A_Beautiful_Life_Big_Tymers_feat._Jazze_Pha.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/06_Beautiful_Life_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Life - Reimagined",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/07_Beautiful_Life_-_Reimagined_Rick_Astley.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "JJ",
+      "has_synced": false,
+      "path": "select/08_Beautiful_Life_JJ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All That Matters (The Beautiful Life)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/09_All_That_Matters_(The_Beautiful_Life)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All That Matters (The Beautiful Life)",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/10_All_That_Matters_(The_Beautiful_Life)_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/11_Beautiful_Life_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/12_Beautiful_Life_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/13_Beautiful_Life_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/14_Beautiful_Life_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beautiful Life",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/15_Beautiful_Life_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Life",
+      "artist": "Shiggy Jr.",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Life_Shiggy_Jr..txt"
+    }
+  ]
+}
